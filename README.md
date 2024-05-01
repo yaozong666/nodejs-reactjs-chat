@@ -1,4 +1,4 @@
-# 基于react的聊天
+# 基于React的聊天
 
 打开网址 "<https://chatengine.io/>" ,注册后创建项目，然后保存私钥
 
